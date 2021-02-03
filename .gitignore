@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.DS_Store
+Volumes
+more-items
+dist
+*-logfile.log
+file2drive.sqlite
